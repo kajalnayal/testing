@@ -1,5 +1,5 @@
 print(class1[:])
-
+hvblskvbskvbhk
 for printing all elements of list
 
 index slicing
