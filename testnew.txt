@@ -11,3 +11,5 @@ print(num[2:5])
  git clone https://github.com/kajalnayal/testing.git
 
 git status
+
+adding new commands
